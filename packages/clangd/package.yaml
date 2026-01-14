@@ -19,6 +19,7 @@ source:
     - target: linux_arm64_gnu
       file: LLVM-21.1.8-Linux-ARM64.tar.xz
       bin: LLVM-21.1.8-Linux-ARM64/bin/clangd
+
   # asset:
   #   - target: [darwin_x64, darwin_arm64]
   #     file: clangd-mac-{{version}}.zip
